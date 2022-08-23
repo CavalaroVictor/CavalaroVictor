@@ -1,7 +1,7 @@
 <h2>Hi there 👋 I'm Victor Cavalaro</h2>
 
 <div>
-<h6>🔭 I’m currently working on ...</h6>
+<!---<h6>🔭 I’m currently working on ...</h6> --->
 <h6>🌱 I’m currently learning Python and Django</h6>
 <h6>📫 How to reach me: victor.cavalaro@yahoo.com</h6>
 
