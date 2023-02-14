@@ -4,6 +4,7 @@
 <!---<h6>🔭 I’m currently working on ...</h6> --->
 <h6>🌱 I’m currently learning Python and Django</h6>
 <h6>📫 How to reach me: victor.cavalaro@yahoo.com</h6>
+<h6> <img height="15em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> <a href="https://www.linkedin.com/in/victor-cavalaro-3a998187/">Victor Cavalaro</a></h6>
 
 <div align="center">
  <a href="https://github.com/cavalarovictor">
