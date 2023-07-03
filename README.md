@@ -1,8 +1,8 @@
-<h2>Hi there 👋 I'm Victor Cavalaro</h2>
+<h2>Hi there :vulcan_salute: I'm Victor Cavalaro</h2>
 
 <div>
 <!---<h6>🔭 I’m currently working on ...</h6> --->
-<h6>🌱 I’m currently learning Data Science with Python and Django for fullstack web dev</h6>
+<h6>:technologist: I’m currently learning Data Science with Python and Django for fullstack web dev</h6>
 <h6>📫 How to reach me: victor.cavalaro@yahoo.com</h6>
 <h6> <img height="15em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> <a href="https://www.linkedin.com/in/victor-cavalaro-3a998187/">Victor Cavalaro</a></h6>
 
