@@ -2,9 +2,15 @@
 
 <div>
 <!---<h6>🔭 I’m currently working on ...</h6> --->
-<h6>:technologist: I’m currently learning Data Science with Python</h6>
-<h6>📫 How to reach me: victor.cavalaro@yahoo.com</h6>
-<h6> <img height="15em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> <a href="https://www.linkedin.com/in/victor-cavalaro-3a998187/">Victor Cavalaro</a></h6>
+<h6>:technologist: I’m currently learning Data Science with Python, R, SQL, DAX to PowerBi.
+I have a bachelor's degree in pharmacy, a master's degree in engineering and technology and programming in my heart. Experience in statistical treatments since 2016, at an industrial level.</h6>
+ &nbsp;
+<h6>📫 How to reach me:</h6>
+ 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:victor.cavalaro@yahoo.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/adriano-paiva-dos-santos-193b8a214/)
+ 
 
 <div align="center">
  <a href="https://github.com/cavalarovictor">
@@ -36,13 +42,3 @@
   
   <h6> IDEs:</h6>
   <img align="center" alt="Victor-PYCHARM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-  <img align="center" alt="Victor-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img align="center" alt="Victor-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    
-                  
-<img align="right" alt="Victor-pic" height="120" style="border-radius:50px;" src="http://media.giphy.com/media/UsmcxQeK7BRBK/giphy.gif">
- </div>
-  
-  ##
-  
-</div>
