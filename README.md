@@ -2,7 +2,7 @@
 
 <div>
 <!---<h6>🔭 I’m currently working on ...</h6> --->
-<h6>:technologist: I’m currently learning Data Science with Python, R, SQL, DAX to PowerBi.
+<h6>:technologist: I’m currently applying Data Science with Python, R language, SQL, DAX to PowerBi.
 I have a bachelor's degree in pharmacy, a master's degree in engineering and technology and programming in my heart. Experience in statistical treatments since 2016, at an industrial level.</h6>
  &nbsp;
 <h6>📫 How to reach me:</h6>
