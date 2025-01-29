@@ -32,13 +32,19 @@ I have a bachelor's degree in pharmacy, a master's degree in engineering and tec
   <img align="center" alt="Victor-Seaborn" height="30" width="40" src="https://user-images.githubusercontent.com/104145773/171375260-c711bda4-ff6d-4693-9a91-b234744f13ad.svg" />
   <img align="center" alt="Victor-SKLearn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
+  <h6> Big Data:</h6>
+  <img align="center" alt="Victor-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
+  
   <h6> Cloud:</h6>
-  <img align="center" alt="Victor-AWS" height="30" width=";40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />    <img align="center" alt="Victor-Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
-  
-  
+  <img align="center" alt="Victor-AWS" height="30" width=";40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />   
+  <img align="center" alt="Victor-Azure" height="30" width=";40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />  
+  <img align="center" alt="Victor-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg)" />   
+      
   <h6> Frameworks:</h6>
   <img align="center" alt="Victor-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  <img align="center" alt="Victor-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />        
   <img align="center" alt="Victor-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   
   <h6> IDEs:</h6>
+  <img align="center" alt="Victor-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />          
   <img align="center" alt="Victor-PYCHARM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
